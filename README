@@ -1,0 +1,4 @@
+# si
+
+python -m venv .venv
+
