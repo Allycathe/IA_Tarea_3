@@ -26,6 +26,7 @@ Desde la raíz del proyecto:
 ```bash
 python -m venv .venv
 source .venv/bin/activate
+pip install jupyter notebook
 ```
 
 Librerías principales: `pandas`, `numpy`, `matplotlib`, `scikit-learn`, `torch`, `torchvision`.
